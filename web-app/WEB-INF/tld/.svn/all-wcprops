@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/grails-plugins/!svn/ver/61629/grails-i18n-gettext/trunk/web-app/WEB-INF/tld
+END
+grails.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/grails-plugins/!svn/ver/61629/grails-i18n-gettext/trunk/web-app/WEB-INF/tld/grails.tld
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/grails-plugins/!svn/ver/46830/grails-i18n-gettext/trunk/web-app/WEB-INF/tld/c.tld
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/grails-plugins/!svn/ver/48028/grails-i18n-gettext/trunk/web-app/WEB-INF/tld/spring.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/grails-plugins/!svn/ver/46830/grails-i18n-gettext/trunk/web-app/WEB-INF/tld/fmt.tld
+END

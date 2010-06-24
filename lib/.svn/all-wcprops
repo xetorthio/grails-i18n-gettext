@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/grails-plugins/!svn/ver/48123/grails-i18n-gettext/trunk/lib
+END
+i18ngettext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/grails-plugins/!svn/ver/48123/grails-i18n-gettext/trunk/lib/i18ngettext.jar
+END
+gettext-commons.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/grails-plugins/!svn/ver/48029/grails-i18n-gettext/trunk/lib/gettext-commons.jar
+END

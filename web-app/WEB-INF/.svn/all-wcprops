@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/grails-plugins/!svn/ver/61629/grails-i18n-gettext/trunk/web-app/WEB-INF
+END
+sitemesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/grails-plugins/!svn/ver/61629/grails-i18n-gettext/trunk/web-app/WEB-INF/sitemesh.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/grails-plugins/!svn/ver/61629/grails-i18n-gettext/trunk/web-app/WEB-INF/applicationContext.xml
+END

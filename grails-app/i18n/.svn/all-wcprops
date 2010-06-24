@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/grails-plugins/!svn/ver/46541/grails-i18n-gettext/trunk/grails-app/i18n
+END
+de_CH.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/grails-plugins/!svn/ver/44372/grails-i18n-gettext/trunk/grails-app/i18n/de_CH.po
+END
+en.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/grails-plugins/!svn/ver/44372/grails-i18n-gettext/trunk/grails-app/i18n/en.po
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/grails-plugins/!svn/ver/44299/grails-i18n-gettext/trunk/grails-app/i18n/messages.properties
+END
+Messages.po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/grails-plugins/!svn/ver/44372/grails-i18n-gettext/trunk/grails-app/i18n/Messages.po
+END
+de.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/grails-plugins/!svn/ver/44372/grails-i18n-gettext/trunk/grails-app/i18n/de.po
+END
+keys.pot
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/grails-plugins/!svn/ver/46541/grails-i18n-gettext/trunk/grails-app/i18n/keys.pot
+END
+de_DE.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/grails-plugins/!svn/ver/44372/grails-i18n-gettext/trunk/grails-app/i18n/de_DE.po
+END

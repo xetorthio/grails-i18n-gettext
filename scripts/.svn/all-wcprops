@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/grails-plugins/!svn/ver/61807/grails-i18n-gettext/trunk/scripts
+END
+_I18nGettext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/grails-plugins/!svn/ver/61807/grails-i18n-gettext/trunk/scripts/_I18nGettext.groovy
+END
+I18nGettext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/grails-plugins/!svn/ver/61807/grails-i18n-gettext/trunk/scripts/I18nGettext.groovy
+END
+_Install.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/grails-plugins/!svn/ver/48123/grails-i18n-gettext/trunk/scripts/_Install.groovy
+END
+_Upgrade.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/grails-plugins/!svn/ver/48123/grails-i18n-gettext/trunk/scripts/_Upgrade.groovy
+END
