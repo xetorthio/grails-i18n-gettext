@@ -26,7 +26,7 @@ import java.lang.IllegalArgumentException
 class T9nService {
 
     static transactional = false
-    
+    def localeResolver
     
     /**
      * @param s - the text to translate
@@ -220,10 +220,10 @@ class T9nService {
 		
 		try{
 			def request = RCH.currentRequestAttributes().currentRequest
-			def session = RCH.currentRequestAttributes().session
 
-			currentLocale = session?.getAttribute("org.springframework.web.servlet.i18n.SessionLocaleResolver.LOCALE")
-			currentLocale = currentLocale?currentLocale:request?.getLocale()
+            currentLocale = request.getAttribute(localeResolver.LOCALE_REQUEST_ATTRIBUTE_NAME)
+			
+            currentLocale = currentLocale?currentLocale:request?.getLocale()
 		} catch( Exception e ){
 			// no implementation. This could be an IllegalStateException because we try to access the session during bootstrap when there is no session available... 
 		}
