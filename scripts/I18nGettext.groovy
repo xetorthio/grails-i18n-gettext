@@ -17,6 +17,7 @@
 i18nDir = "./grails-app/i18n"
 i18nOutputDir = "${i18nGettextPluginDir}/lib"
 fileNameToCreate = null
+baseFolderToScan = "."
 
 includeTargets << grailsScript("_GrailsInit")
 includeTargets << grailsScript("_GrailsPackage")
@@ -68,7 +69,13 @@ target( main: "Scan all .groovy and .gsp files for tr() trn() and merge with all
         break
         case 'scan':
         default:
-        	scan()
+            if( parameters.size()>1 ){
+                baseFolderToScan = parameters[1]
+                scan()
+            } else {
+                baseFolderToScan = "."
+                scan()
+            }
     }
 }
 

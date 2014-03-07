@@ -47,7 +47,7 @@ target( scan:"Generate .pot file from sources" ){
     def keysFileName = i18nDir+"/keys.pot"
     new File( keysFileName ).write("")
     
-    new File(".").eachFileRecurse{ file ->
+    new File(baseFolderToScan).eachFileRecurse{ file ->
     	def currentFileCanonicalPath = file.getCanonicalPath()
     	
     	def skipThis = false
