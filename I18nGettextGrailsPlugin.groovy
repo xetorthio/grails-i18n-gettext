@@ -17,7 +17,6 @@
 import java.text.MessageFormat
 import java.util.Locale
 import org.xnap.commons.i18n.*
-import org.codehaus.groovy.grails.commons.ApplicationHolder
 
 class I18nGettextGrailsPlugin {
     def observe = ['*']
